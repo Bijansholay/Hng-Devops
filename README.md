@@ -3,7 +3,7 @@
 This repository contains a simple, production-ready API built for the HNG Stage 1 DevOps track. The project demonstrates the ability to build a backend service, deploy it to a Cloud VPS, and configure it using professional DevOps tools like Nginx and PM2.
 
 ## 🔗 Live Deployment
-- **Public API URL:** `http://34.224.82.211`
+- **Public API URL:** `http://xx.xx.xx.com`
 - **GitHub Repository:** `https://github.com/Bijansholay/Hng-Devops`
 
 ## 🛠 Tech Stack
